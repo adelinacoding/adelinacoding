@@ -187,3 +187,14 @@ I enjoy creating user-focused digital products, solving complex engineering chal
 </p>
 
 <hr>
+
+<hr>
+
+<p align="center">
+Senior Full-Stack Engineer passionate about building scalable web applications,
+modern digital products, and exceptional user experiences.
+</p>
+
+<p align="center">
+📧 Open to collaboration, innovation, and challenging engineering opportunities.
+</p>
